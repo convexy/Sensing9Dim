@@ -1,0 +1,13 @@
+create table T_9DIM (
+	MDATETIME TEXT, 
+	AX REAL,
+	AY REAL,
+	AZ REAL,
+	GX REAL,
+	GY REAL,
+	GZ REAL,
+	MX REAL,
+	MY REAL,
+	MZ REAL
+);
+	
